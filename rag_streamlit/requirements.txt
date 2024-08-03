@@ -1,0 +1,11 @@
+boto3
+langchain
+langchain-community
+streamlit
+langchain-aws
+anthropic
+flask-sqlalchemy
+pypdf
+faiss-cpu
+pdfplumber
+langchain-cli
